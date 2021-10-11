@@ -1,0 +1,2 @@
+# typescripts_exercises
+typescript
